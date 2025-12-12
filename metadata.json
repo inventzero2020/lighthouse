@@ -1,0 +1,8 @@
+{
+  "name": "Lighthouse",
+  "description": "A comprehensive mental wellness companion app offering AI-driven support, crisis resources, and personalized safety planning.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
